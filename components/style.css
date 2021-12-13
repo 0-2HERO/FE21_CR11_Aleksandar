@@ -1,0 +1,50 @@
+ /* index table  */
+ 
+
+ .img-thumbnail {
+    width: 70px  !important;
+    height: 70px !important;
+}
+ td {  
+     height: auto;        
+    text-align: middle;
+  vertical-align: middle;
+
+ }
+tr {
+     text-align: center;
+}
+
+/* index table  */
+
+
+#footer{
+   position:absolute;
+   bottom:0;
+   width:100%;
+}
+/* index table  */
+
+/* form log in  */
+
+.login,
+.image {
+    min-height: 100vh
+}
+
+.bg-image {
+    background-image: url('https://cdn.pixabay.com/photo/2017/08/07/15/40/dog-2605020_960_720.jpg');
+    background-size: cover;
+    background-position: center;
+    min-width: 55%;
+}
+/* form log in  */
+
+
+.bg-imagetwo {
+    background-image: url('https://cdn.pixabay.com/photo/2017/09/05/23/07/dog-2719601_960_720.jpg');
+    background-size:cover;
+    background-position:center;
+    min-width: 55%;
+    
+}
