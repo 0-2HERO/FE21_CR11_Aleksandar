@@ -6,7 +6,7 @@
 User log in: 
 user@mail.com
 password: 123123
-----------------
+
 Admin log in: 
 adminr@mail.com
 password: 123123
