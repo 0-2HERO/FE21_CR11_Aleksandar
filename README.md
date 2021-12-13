@@ -8,8 +8,10 @@ user@mail.com
 password: 123123
 
 Admin log in: 
-adminr@mail.com
+admin@mail.com
 password: 123123
+
+
 
 
 - Create a database initially with 2 tables: users and animals. Add sufficient test data in the animals table: at least 10 records in total between small animals and large animals. Remember that animals have their age so make sure there are at least 4 senior animals in the DB (older than 8 years old).
